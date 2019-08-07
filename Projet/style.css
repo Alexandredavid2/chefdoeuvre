@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: grey;
+    opacity: 0.99;
+  }
+
+
+
+  .table-course {
+    background-color: #bb2124;
+  }
+  .table-ntropycolor {
+      background-color: #87CEEB;
+  }
+  .table-oxidecolor {
+      background-color: #32CD32;
+  }
+  .table-goldcolor {
+      background-color: gold;
+  }
+  .table-saphirecolor {
+      background-color: #0067A5;
+  }
+  .table-platiniumcolor {
+      background-color: #E5E4E2;
+  }
+
+
+  .imagesizentropy {
+      max-width: 15px;
+  }
+
+  .imagesizeoxide {
+      max-width: 20px;
+  }
+
+  .imagesizerelic {
+      max-width: 13px;
+  }
+
+  .imagesizetrophy {
+      max-width: 15px;
+  }
+
+  .imagebesttime {
+      max-width: 15px;
+  }
+  .imagebesttimerelic {
+      max-width: 15px;
+  }
+/* .table {
+    width: 100%;
+}
+
+.table tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+
+.table td,
+.table th {
+    border: 2px solid red;
+    text-align: center;
+}
+
+ /* .line:hover {
+    background: Blue;
+    cursor: pointer;
+} */ */
